@@ -15,7 +15,7 @@
 }
 
 .Hero-section{
-    font-family: 'Parisienne', cursive;
+    font-family: 'Pacifico', cursive;
     color: #ffffff;
     text-align: center;
     background-image: url('../img/hero.jpg');
@@ -24,9 +24,56 @@
     background-size: cover;
 }
 
+.linea1{
+    width: 300px;
+    
+}
+
 .negrita {
-    font-family: 'Parisienne', cursive;
+    font-family: 'Pacifico', cursive;
     font-weight: bold;
     font-size: 800;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+#contacto{
+    padding: 80pt;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 52pt;
+    font-weight: bold;
+}
+
+.linea5{
+    width: 150px;
+
+}
+
+
+
+
+
+.footer{
+    font-family: 'Pacifico', cursive;
+    height: 221pt;
+    background-color: #660066;
+
+}
+.col-sm{
+    text-align: center;
+    
+}
