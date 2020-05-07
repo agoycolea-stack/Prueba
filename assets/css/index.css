@@ -1,5 +1,9 @@
 .navbar-brand{
     margin-left: 10%;
+    font-family: 'Parisienne', cursive;
+    font-size: 22 px;
+    font-weight: bold;
+
 }
 
 #navbarNav{
@@ -9,3 +13,20 @@
 .bg-color{
     background-color: #660066;
 }
+
+.Hero-section{
+    font-family: 'Parisienne', cursive;
+    color: #ffffff;
+    text-align: center;
+    background-image: url('../img/hero.jpg');
+    background-repeat: no-repeat;
+    height: 737px;
+    background-size: cover;
+}
+
+.negrita {
+    font-family: 'Parisienne', cursive;
+    font-weight: bold;
+    font-size: 800;
+}
+
