@@ -5,7 +5,7 @@ $(function(){
         var url = this.hash;
         $('html,body').animate({
           scrollTop: $(url).offset().top
-        }, 800, function(){
+        }, 1500, function(){
           window.location.hash = url;
         });
       }

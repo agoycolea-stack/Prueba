@@ -10,6 +10,11 @@
     margin-right: 10%;
 }
 
+body{
+    padding-top:40px ;
+}
+
+
 .bg-color{
     background-color: #660066;
 }
@@ -101,12 +106,14 @@ h2{
 
 
 
-
+.claro a{
+    color: #ffffff;
+}
 
 .footer{
     font-family: 'Pacifico', cursive;
     height: 221pt;
-    background-color: #660066;
+    background-color: #660066;    
 
 }
 .col-sm{
